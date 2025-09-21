@@ -1,4 +1,5 @@
 # 📊 Atliq Grands: Business & Data Intelligence Dashboard Project
+Link to [Interactive Dashboard](https://project.novypro.com/ggu4ts)
 
 ## 🔍 Problem Statement
 Atliq Grands, a leading five-star hotel chain in India with 20 years of presence in the hospitality industry, is facing challenges due to rising competition and suboptimal decision-making. These challenges have led to a decline in market share and revenue, particularly in the luxury/business hotel segment.
